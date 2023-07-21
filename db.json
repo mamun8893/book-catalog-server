@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "email": "mamun@gmail.com",
+      "password": "$2a$10$fxLOb/1Ow8vWmHBGMQscPO7G4CSXgW3OlP0A1pSnsN/ZhLAu7U7Di",
+      "name": "Mamunur Rashid",
+      "id": 1
+    }
+  ],
+  "books": [
+    {
+      "title": "Think Like a Monk: Train Your Mind for Peace and Purpose Everyday",
+      "author": "Jay Shetty",
+      "genre": "Fiction",
+      "publicationDate": "2023-07-06",
+      "user": "mamun@gmail.com",
+      "image": "https://demo2.madrasthemes.com/bookworm-html/redesigned-octo-fiesta/assets/img/120x180/img1.jpg",
+      "year": "2019",
+      "id": 1
+    },
+    {
+      "title": "The Overdue Life of Amy Byler",
+      "author": "mamun",
+      "genre": "Novel",
+      "publicationDate": "2018-02-07",
+      "user": "mamun@gmail.com",
+      "image": "https://demo2.madrasthemes.com/bookworm-html/redesigned-octo-fiesta/assets/img/120x180/img2.jpg",
+      "year": "2022",
+      "id": 2
+    },
+    {
+      "title": "All You Can Ever Know: A Memoir",
+      "author": "Jay Shetty",
+      "genre": "Narrative",
+      "publicationDate": "2023-07-08",
+      "user": "mamun@gmail.com",
+      "image": "https://demo2.madrasthemes.com/bookworm-html/redesigned-octo-fiesta/assets/img/120x180/img3.jpg",
+      "year": "2020",
+      "id": 3
+    },
+    {
+      "title": "new book",
+      "author": "mamun",
+      "genre": "friction",
+      "publicationDate": "2022-02-01",
+      "user": "mamun@gmail.com",
+      "image": "https://demo2.madrasthemes.com/bookworm-html/redesigned-octo-fiesta/assets/img/120x180/img1.jpg",
+      "year": "2022",
+      "id": 4
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "bookId": 1,
+      "comment": "first-reviews"
+    },
+    {
+      "id": 2,
+      "bookId": 3,
+      "comment": "first-reviews"
+    },
+    {
+      "id": 3,
+      "bookId": 1,
+      "comment": "first-reviews2"
+    },
+    {
+      "comment": "new review",
+      "bookId": "1",
+      "id": 4
+    },
+    {
+      "comment": "new review",
+      "bookId": "1",
+      "id": 5
+    }
+   
+  ]
+}
